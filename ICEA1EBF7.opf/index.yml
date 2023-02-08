@@ -1,0 +1,143 @@
+id: b10c4f99e34448f984222dd2b07770e2
+annotation_type: index
+revision: '00001'
+annotations:
+  e6dd996f23d64a089b22894a682ce755:
+    base: DAA0.txt
+    Chapters:
+    - title: Title
+      span:
+        start: 0
+        end: 8
+    - title: Preface
+      span:
+        start: 9
+        end: 17
+    - title: §1
+      span:
+        start: 18
+        end: 139
+    - title: §2
+      span:
+        start: 140
+        end: 404
+    - title: §3
+      span:
+        start: 405
+        end: 527
+    - title: §4
+      span:
+        start: 528
+        end: 602
+    - title: §5
+      span:
+        start: 603
+        end: 753
+    - title: §6
+      span:
+        start: 754
+        end: 1093
+    - title: §7
+      span:
+        start: 1094
+        end: 1203
+    - title: §8
+      span:
+        start: 1204
+        end: 1401
+    - title: §9
+      span:
+        start: 1402
+        end: 1684
+    - title: §10
+      span:
+        start: 1685
+        end: 1896
+    - title: §11
+      span:
+        start: 1897
+        end: 2102
+    - title: §12
+      span:
+        start: 2103
+        end: 2200
+    - title: §13
+      span:
+        start: 2201
+        end: 2499
+    - title: §14
+      span:
+        start: 2500
+        end: 3229
+    - title: §15
+      span:
+        start: 3230
+        end: 3529
+    - title: §16
+      span:
+        start: 3530
+        end: 3841
+    - title: §17
+      span:
+        start: 3842
+        end: 4527
+    - title: §18
+      span:
+        start: 4528
+        end: 4792
+    - title: §19
+      span:
+        start: 4793
+        end: 5020
+    - title: §21
+      span:
+        start: 5021
+        end: 5163
+    - title: §22
+      span:
+        start: 5164
+        end: 5258
+    - title: §23
+      span:
+        start: 5259
+        end: 5385
+    - title: §24
+      span:
+        start: 5386
+        end: 5488
+    - title: §25
+      span:
+        start: 5489
+        end: 5598
+    - title: §26
+      span:
+        start: 5599
+        end: 5740
+    - title: §27
+      span:
+        start: 5741
+        end: 5866
+    - title: §28
+      span:
+        start: 5867
+        end: 5976
+    - title: §29
+      span:
+        start: 5977
+        end: 6027
+    - title: §30
+      span:
+        start: 6028
+        end: 6223
+    - title: §31
+      span:
+        start: 6224
+        end: 6365
+    - title: §32
+      span:
+        start: 6366
+        end: 6540
+    - title: Colophon
+      span:
+        start: 6541
+        end: 6733
